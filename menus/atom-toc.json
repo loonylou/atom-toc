@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "New TOC",
+        "command": "atom-toc:new"
+      },
+      {
+        "label": "Go to TOC",
+        "command": "atom-toc:goto"
+      },
+      {
+        "label": "Add TOC Header",
+        "command": "atom-toc:addTocHeader"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom TOC",
+          "submenu": [
+            {
+              "label": "New",
+              "command": "atom-toc:new"
+            },
+            {
+              "label": "Go To",
+              "command": "atom-toc:goto"
+            },
+            {
+              "label": "Add TOC Header",
+              "command": "atom-toc:addTocHeader"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
