@@ -1,8 +1,8 @@
 {
-  "name": "atom-toc",
+  "name": "atom-table-of-contents",
   "main": "./lib/atom-toc",
-  "version": "1.0.0",
-  "description": "TOC Generator for Atom",
+  "version": "0.0.0",
+  "description": "Table of Contents Generator for Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-toc:addUpdateTOC"
