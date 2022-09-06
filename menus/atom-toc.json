@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "New TOC",
-        "command": "atom-toc:new"
+        "command": "atom-toc:addUpdateTOC"
       },
       {
         "label": "Go to TOC",
@@ -24,7 +24,7 @@
           "submenu": [
             {
               "label": "New",
-              "command": "atom-toc:new"
+              "command": "atom-toc:addUpdateTOC"
             },
             {
               "label": "Go To",

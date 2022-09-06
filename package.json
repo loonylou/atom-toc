@@ -6,10 +6,10 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-toc:new"
+    "atom-workspace": "atom-toc:addUpdateTOC"
   },
-  "repository": "https://github.com/atom/atom-toc",
-  "license": "MIT",
+  "repository": "https://github.com/loonylou/atom-toc",
+  "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },

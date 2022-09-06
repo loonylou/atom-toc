@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-t": "atom-toc:goto"
+    "alt-cmd-g": "atom-toc:goto",
+    "alt-cmd-h": "tom-toc:addTocHeader",
+    "alt-cmd-t": "tom-toc:addUpdateTOC"
   }
 }
