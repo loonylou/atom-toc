@@ -1,7 +1,7 @@
 {
   "name": "atom-contents-table",
   "main": "./lib/atom-toc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Table of Contents Generator for Atom",
   "keywords": [],
   "activationCommands": {
