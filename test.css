@@ -1,0 +1,36 @@
+
+
+
+
+/*
+Theme Name: Wordpress Test
+Author: Wordpress Test
+Author URI: Wordpress Test
+Description: Wordpress Test
+Version: 1.0
+Text Domain: Wordpress Test
+*/
+
+
+@font-face {
+    font-family: 'Madelyn-Regular';
+    src: url('../fonts/Madelyn.woff2') format('woff2'),
+    url('../font/Madelyn.woff') format('woff');
+}
+body {
+    min-height: 75rem; /* Fixed nav */
+    padding-top: 11rem; /* Fixed nav */
+}
+.mobile-hidden {
+    display: none;
+}
+/* Text Size & Font */
+* {
+    font-family: 'Source Sans Pro', 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+ul.dropdown-menu li.nav-item.active a.nav-link {
+    color: #007291;
+    pointer-events: none;
+}
