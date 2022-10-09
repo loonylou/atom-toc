@@ -15,9 +15,9 @@ TOC Generator for Atom.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-                                            Copyright (C) 2022 Louise Quinn
+    Copyright (C) 2022 Louise Quinn
 
-Usage:
-    alt-cmd-t: Add or Update TOC,
-    alt-cmd-h: Add New TOC Entry (within file) - NOTE: must not have spaces
-    alt-cmd-g: Go to TOC Point (place cursor on top TOC line)
+    Usage:
+         alt-cmd-t: Add or Update TOC,
+         alt-cmd-h: Add New TOC Entry (within file) - NOTE: must not have spaces
+         alt-cmd-g: Go to TOC Point (place cursor on top TOC line)
