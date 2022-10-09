@@ -1,6 +1,6 @@
 {
-  "name": "atom-toc",
-  "main": "./lib/atom-toc",
+  "name": "atom-toc-dev",
+  "main": "./lib/atom-toc-dev",
   "version": "3.0.1",
   "description": "Table of Contents Generator for Atom",
   "keywords": [
