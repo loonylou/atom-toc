@@ -3,7 +3,11 @@
   "main": "./lib/atom-toc",
   "version": "3.0.0",
   "description": "Table of Contents Generator for Atom",
-  "keywords": [],
+  "keywords": [
+      "table of contents",
+      "index",
+      "toc"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-toc:addUpdateTOC"
   },

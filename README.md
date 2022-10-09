@@ -1,7 +1,13 @@
-# atom-toc package
+ # Table of Contents for Atom
 
-TOC Generator for Atom.
+ An Atom package that lets developers add a Table of Contents section to the top of languages using the following style "/* >>>>>> --------------- *TITLE */".
 
+ ## Usage
+    - alt-cmd-t: Add or Update TOC,
+    - alt-cmd-h: Add New TOC Entry (within file) - NOTE: must not have spaces
+    - alt-cmd-g: Go to TOC Point (place cursor on top TOC line)
+
+ ### Licence  
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -18,6 +24,3 @@ TOC Generator for Atom.
     Copyright (C) 2022 Louise Quinn
 
     Usage:
-         alt-cmd-t: Add or Update TOC,
-         alt-cmd-h: Add New TOC Entry (within file) - NOTE: must not have spaces
-         alt-cmd-g: Go to TOC Point (place cursor on top TOC line)
